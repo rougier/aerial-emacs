@@ -7,7 +7,7 @@ style for emacs:
 * Modeline is reduced to a single pixel line
 * Header line is used to display information
 * Extra border spaces have been added
-* Font is "Adobe Source Code Pro"
+* Font is [Adobe Source Code Pro][font]
 * Highlight linum indicate current line and selection
 
 Configuration files are available from
@@ -17,6 +17,7 @@ http://github.com/rougier/aerial-emacs
 
 
 
+[font]: https://github.com/adobe-fonts/source-code-pro
 
 
 
