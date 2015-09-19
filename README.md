@@ -8,7 +8,7 @@ style for emacs:
 * Header line is used to display information
 * Extra border spaces have been added
 * Font is [Adobe Source Code Pro][font]
-* Highlight linum indicate current line and selection
+* [Hlinum][hlinum] indicates current line and selection
 
 Configuration files are available from
 http://github.com/rougier/aerial-emacs
@@ -16,10 +16,9 @@ http://github.com/rougier/aerial-emacs
 ![](./screenshot.png)
 
 
-
+    
 [font]: https://github.com/adobe-fonts/source-code-pro
-
-
+[hlinum]: https://github.com/tom-tan/hlinum-mode
 
 
 
